@@ -5,3 +5,5 @@ something new each day. Because of that, I'll create a small animation or projec
 each day and publish it over here.
 
 Today: a simple [GSAP](https://cdnjs.com/libraries/gsap) page animation
+
+Result can be found here [GSAP Animation](https://slickepinne.github.io/gsap-animation/)
