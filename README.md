@@ -6,4 +6,4 @@ each day and publish it over here.
 
 Today: a simple [GSAP](https://cdnjs.com/libraries/gsap) page animation.
 
-The reesult can be found here: [Animation project](https://slickepinne.github.io/gsap-animation/)
+The result can be found here: [Animation project](https://slickepinne.github.io/gsap-animation/)
